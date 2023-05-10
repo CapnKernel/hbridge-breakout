@@ -1275,6 +1275,9 @@
   (gr_text "h-bridge breakout" (at 176.2 84.55) (layer "B.SilkS") (tstamp a5f86450-b7d5-46c9-96a0-493860779c05)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
+  (gr_text "JLCJLCJLCJLC" (at 159.6 85.7) (layer "F.SilkS") (tstamp 1f48c0a7-0d76-4f2a-bafd-e7730c5bb2c6)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 154.6625 86.6) (end 164.720822 86.6) (width 1) (layer "F.Cu") (net 1) (tstamp 04b86af3-433c-435c-b350-314cefadcc8a))
   (segment (start 152.55 82.05) (end 155.45 79.15) (width 1) (layer "F.Cu") (net 1) (tstamp 08f03325-3496-47f4-9b09-12cf413ad215))
