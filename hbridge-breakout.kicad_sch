@@ -1481,6 +1481,10 @@
     (uuid ffe9bb11-8742-4197-a10f-8100f2770f73)
   )
 
+  (text "Consider trying DRV8251\n" (at 156.845 103.505 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6f92497e-03e2-44e7-94b6-c44d952986b8)
+  )
   (text "Inspired by https://www.pololu.com/product/1451/pictures"
     (at 50.8 184.15 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
